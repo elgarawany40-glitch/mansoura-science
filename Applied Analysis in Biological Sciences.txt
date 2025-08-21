@@ -1,0 +1,52 @@
+[
+    {
+      "title": "الاضافات الحديثة - Recent additions",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/EhXkcXKvBfNDrBT8jCeS2mQBqXmhQFuOUjNlrj0QahiYNA?e=nMNAzD",
+      "showAd": true
+    },
+    {
+      "title": "General Mathematics (I)",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/EmlzvzzSCSFHsCg-6qcfFhQBVO5Eswk80Bxdi6OrTX5yLA?e=q9vc7y",
+      "showAd": true
+    },
+    {
+      "title": "General Physics (I)",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/EpDPp0Txj-1Mon6AqQdogLgB07DdUBjB4QFpfB3D4I1q0w?e=OcpxmV",
+      "showAd": true
+    },
+    {
+      "title": "General Chemistry (I)",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/EqgHGOiODfZJmMM3d_ymnhoBr70tk6tjvDDEfLqTYUNZag?e=aZeVpg",
+      "showAd": true
+    },
+    {
+      "title": "General Botany (I)",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/Eka6BW15d1ZFqCteDk2lj3UBOaAx4vW9fbl1wEV1QaBjsA?e=NPyy9M",
+      "showAd": true
+    },
+    {
+      "title": "General Zoology (I)",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/EiFxxTTsyd9JjK33-LSpiWkBwJSoKxqGJfcB0d8tXX28AA?e=XJuE1j",
+      "showAd": true
+    },
+    {
+      "title": "Computer fundamentals (1)",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/EqsP5D0-XrZBvrv4pq_DBrQB0Q8bWg5vCLH03_nlvmQAng?e=SUfF3P",
+      "showAd": true
+    },
+    {
+      "title": "General Chemistry (II)",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/ErTxoLPDxtdCusf_0Bb0ObQBUd43Q_6Gwsn5P3FX-wHwMQ?e=4OZaKM",
+      "showAd": true
+    },
+    {
+      "title": "General microbiology",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/EqAg6AovYvxPqIBFEbA_XyEBetFiV-MRsHWPURexi_StNA?e=oTfjyC",
+      "showAd": true
+    },
+    {
+      "title": "General Zoology (II)",
+      "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/Eof_9Q6uIclFiZAQ5q3kwicB6lTivsSbAhu3vJDCuKfXSg?e=3qzBpt",
+      "showAd": true
+    }
+  ]
