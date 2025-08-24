@@ -1,0 +1,370 @@
+[
+    {
+        "title": "Basic refinery products",
+        "content": "https://drive.google.com/drive/folders/1ki5uOE2ajchQEjxHh9X8yQZzGEt3tibL?usp=sharing",
+        "showAd": true
+    },
+
+    {
+        "title": "Biochemistry",
+        "content": "https://drive.google.com/drive/folders/10zLF611vhi_t5_xzoLEWnPVIh2q-UOlX?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Catalysis",
+        "content": "https://drive.google.com/drive/folders/1RD0JuL_IWJF6Fl8K4ZKT2TUZhCoc7yOY?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Chemistry of transition elements",
+        "content": "https://drive.google.com/drive/folders/152UI5O9CCzFrM26Py_BJP2cOcfff90w_?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Co-ordination Chemistry",
+        "content": "https://drive.google.com/drive/folders/1LH8UyHG4AtPVrHgSkLuKmqoSHweL4q0p?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Computer Sciences",
+        "content": "https://drive.google.com/drive/folders/11oDY3ctIZ1PIdP6JJDxI1tzdTb3T3-xP?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Economics of petrochemicals",
+        "content": "https://drive.google.com/drive/folders/1Vit2bNlv451Q4KiD1GWPCr-naevKYomv?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Electricity and photophysics",
+        "content": "https://drive.google.com/drive/folders/1X1mYga4MiotA-gR5GkwIXSVJevMFhnuJ?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Electrochemical Chemistry",
+        "content": "https://drive.google.com/drive/folders/1GwxHEtH7W70w_vh0HdX8uc_lzfr_exq8?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Environmental Studies",
+        "content": "https://drive.google.com/drive/folders/1aCN4s_o8j1XxctAGFNdOGSRYPpKHdZ7Q?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Green Chemistry",
+        "content": "https://drive.google.com/drive/folders/1QMy0UO0TuYI8RHprvourXfPAhW9f1Onc?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Inorganic chemistry",
+        "content": "https://drive.google.com/drive/folders/1HW_JSrAfljGWYJbgb4MF2xj9e0sSAs3G?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Introduction in crude oil",
+        "content": "https://drive.google.com/drive/folders/1-9X1G_qgxLtENqz4aycvY4E_juD1mmDl?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Kinetics and solid chemistry",
+        "content": "https://drive.google.com/drive/folders/1agq84uoccf2PDpa4iww4LVILz8DBQcM5?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Language",
+        "content": "https://drive.google.com/drive/folders/1M0WD3dnHbkSEperm5ef8AQcuVLEuZ3Wz?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Marketing",
+        "content": "https://drive.google.com/drive/folders/1r98bJqUeXPhaDvxT-wOoP1ZfXsHWw9S1?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Mathematics",
+        "content": "https://drive.google.com/drive/folders/1ovIvShMA4TwYq4VrmW2OBL-BZG2ZpU0M?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Mathematics (2)",
+        "content": "https://drive.google.com/drive/folders/1L6OYugZM08S0tEg4wUy4cGSgUZUW0QgG?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Mineral Resources",
+        "content": "https://drive.google.com/drive/folders/15PqRjO6k1Go7tlcp-w3n6N7OaGlE6ItC?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Nanotechnology",
+        "content": "https://drive.google.com/drive/folders/1FMHufYUUUSZMRvdqyHceT7zifq3H_RLo?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Natural Gas",
+        "content": "https://drive.google.com/drive/folders/1KU8kBRyUZJ-7QDw742VeVpEEZjpbhkeV?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Natural Products and heterocylic",
+        "content": "https://drive.google.com/drive/folders/1DyPE03bET1qj0pIWTazeGSVn91cUixob?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Petrochemical Industry (10)",
+        "content": "https://drive.google.com/drive/folders/1AgysRJMsTKjZ3tKSidp6e-nB1iIqTfHI?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Petrochemical Industry (2)",
+        "content": "https://drive.google.com/drive/folders/1SyrGZO1k_VqnSbGVXjq69Hoa7VjPjl2x?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Petrochemical Industry (3)",
+        "content": "https://drive.google.com/drive/folders/1Hj6epzKdirIE7QJ7iXmXjNUvEo8SMAKF?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Petrochemical Industry (4)",
+        "content": "https://drive.google.com/drive/folders/1_HH-Of2notNXmSLlfQybozcIAILG6bKP?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Petrochemical Industry (5)",
+        "content": "https://drive.google.com/drive/folders/1o7iOZS2Ng3GlncfsE0DF8uT50gBGUADX?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Petrochemical Industry (6)",
+        "content": "https://drive.google.com/drive/folders/14JNg7WvkYpdGRmbNfCuCH8cHBLoj_hsJ?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Petrochemical Industry (7)",
+        "content": "https://drive.google.com/drive/folders/1-qyjRtNE9f8vXBCyfWRc4x_lrVSheAFa?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Petrochemical Industry (8)",
+        "content": "https://drive.google.com/drive/folders/1jIVPyiqDwHv3NLp_lcphV5tYEni6uvgz?usp=sharing",
+        "showAd": true
+    },
+  {
+        "title": "Petrochemical Industry (9)",
+        "content": "https://drive.google.com/drive/folders/1HPgDFXSueH_TtevoAu_I40bNSPt7ohoi?usp=sharing",
+        "showAd": true
+    },
+
+
+ {
+        "title": "Petrochemicals (1)",
+        "content": "https://drive.google.com/drive/folders/1n1FUB6cop1dvLTysJA37JdUiHdattmYh?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Petrochemicals (2)",
+        "content": "https://drive.google.com/drive/folders/14BpLWyPcgK5zz2DFN6FZ8FtBXoTbyWSz?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Petrochemicals Industry (1)",
+        "content": "https://drive.google.com/drive/folders/1J6pQE3Sq4JcrNLpv-R_-Dg4n_CFVUXIW?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Petroleum Refinery (1)",
+        "content": "https://drive.google.com/drive/folders/1dEIo-nejrsVpirxm92YOgFXaxs3NVt_S?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Petroleum Refinery (2)",
+        "content": "https://drive.google.com/drive/folders/1hVHLWkyx0Mz4rIKSOVDu_rL1LVABjgYD?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Petroleum Upstream",
+        "content": "https://drive.google.com/drive/folders/1gqRjlncbBMOTI7vVcsj8hm6HXpJ4TfNK?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Pharmaceutical chemistry",
+        "content": "https://drive.google.com/drive/folders/1z3aGj6nBQrV7_9TwO78iNsNhaJJLqDDI?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Photo and organometallic chemistry",
+        "content": "https://drive.google.com/drive/folders/1VZ9xZqTzlUk9uh_ZQP_c274bWVPg8CQa?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Physical organic chemistry",
+        "content": "https://drive.google.com/drive/folders/1m3Ye6JOW2T8tw3n64MF5w2_Kv2zgIoiK?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Physics and Material properties",
+        "content": "https://drive.google.com/drive/folders/1ogRtevXKqeo0w2cJjBopiiaUkTXB9qB7?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Physics and Material properties",
+        "content": "https://drive.google.com/drive/folders/1ogRtevXKqeo0w2cJjBopiiaUkTXB9qB7?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Polymer Chemistry",
+        "content": "https://drive.google.com/drive/folders/1WbJnnC_zNaw0ECVY9CaPqkn7MeM80ezM?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Practical analytical chemistry",
+        "content": "https://drive.google.com/drive/folders/1393mgXqTCwL_VTWFb-dq0hqw3dkkYH10?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Practical Inorganic chemistry",
+        "content": "https://drive.google.com/drive/folders/17XFyjc829XD6hWs6SA5Xtyc7pjTwYWE3?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Practical Organic Chemistry",
+        "content": "https://drive.google.com/drive/folders/107OuS9QjYYprhnKsZ5BwhDrW6uveA7lW?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Practical Petroleum chemistry",
+        "content": "https://drive.google.com/drive/folders/1CFKbTC1mYD-3ApioblA1MhYeRGO2-Aak?usp=sharing",
+        "showAd": true
+    },
+
+
+
+{
+        "title": "Practical physical and Inorganic Chemistry",
+        "content": "https://https://drive.google.com/drive/folders/1yw69IJCMu7oMOsoxDkMt3RzGg_RdCBk5?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Practical physical chemistry",
+        "content": "https://drive.google.com/drive/folders/1OQ6pZDO3g2bLFOa8oi7lwe5DkTRi6HEJ?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Practical Polymer chemistry",
+        "content": "https://drive.google.com/drive/folders/1L_Qb_BedcqKx_t6YK53DlK4rj-Ujocwc?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Principles of analytical chemistry",
+        "content": "https://drive.google.com/drive/folders/1bTjeQMas4kgeZU1pVhxrL_vnIwRIYP5N?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Principles of Corrosion",
+        "content": "https://drive.google.com/drive/folders/1gI9mcGHaeS1jWw94g6r9Ro9qDtP-QTeq?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Principles of inorganic chemistry",
+        "content": "https://drive.google.com/drive/folders/1-7aKtBLEh29EyQ9ol5cm34jslG3w6Huv?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Principles of organic chemistry (1)",
+        "content": "https://drive.google.com/drive/folders/1vB5Vazt25CDbSaw0DvjgcIFkLmmDJ_vA?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Principles of organic chemistry (2)",
+        "content": "https://drive.google.com/drive/folders/1PUzktwUn0X1N5jdtSCwXkkIS3q5vFm9g?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Principles of physical chemistry",
+        "content": "https://drive.google.com/drive/folders/1yoYgoX6KpTVa3H1n93IVlpQOatHHlG_T?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Principles of spectroscopy",
+        "content": "https://drive.google.com/drive/folders/1OEYa2L2EX2YfXFw3yiHHvjWJYTKtoCxe?usp=sharing",
+        "showAd": true
+    },
+
+{
+        "title": "Prospecting of Petroleum",
+        "content": "https://drive.google.com/drive/folders/1fhMX0wU4rWXY4_kVuInbf5M9X_vBUh04?usp=sharing",
+        "showAd": true
+    },
+
+
+{
+        "title": "Renewable energy resources",
+        "content": "https://drive.google.com/drive/folders/19bC5Vg-1PygOyI_Ha9Uo_tJ1w6CpXik_?usp=sharing",
+        "showAd": true
+    },
+
+
+{
+        "title": "Separation methods",
+        "content": "https://drive.google.com/drive/folders/1XX5pplBql2JvYu1JsoFEhBI9kgSMyduh?usp=sharing",
+        "showAd": true
+    },
+
+
+{
+        "title": "Spectroscopy Application",
+        "content": "https://drive.google.com/drive/folders/1nhw90n7jQUXqjp4RJmMkJvaPvwvtGIBB?usp=sharing",
+        "showAd": true
+    },
+
+
+
+{
+        "title": "Stereochemistry and carbohydrates",
+        "content": "https://drive.google.com/drive/folders/1nCcmKwEqxKej3tHIWTeZe91zYON_FkAN?usp=sharing",
+        "showAd": true
+    },
+
+
+{
+        "title": "Surface and Colloid Chemistry",
+        "content": "https://drive.google.com/drive/folders/1L47TYsnOULxUb1NXmXTLZz_qXvEIjsRc?usp=sharing",
+        "showAd": true
+    },
+
+
+
+{
+        "title": "Thermodynamics",
+        "content": "https://drive.google.com/drive/folders/1-ZSRHXKpFJCEqYWtdOULyzDkSMthar1a?usp=sharing",
+        "showAd": true
+    },
+
+
+
+]
