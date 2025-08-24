@@ -217,11 +217,6 @@
         "showAd": true
     },
 
-{
-        "title": "Physics and Material properties",
-        "content": "https://drive.google.com/drive/folders/1ogRtevXKqeo0w2cJjBopiiaUkTXB9qB7?usp=sharing",
-        "showAd": true
-    },
 
 {
         "title": "Polymer Chemistry",
@@ -257,7 +252,7 @@
 
 {
         "title": "Practical physical and Inorganic Chemistry",
-        "content": "https://https://drive.google.com/drive/folders/1yw69IJCMu7oMOsoxDkMt3RzGg_RdCBk5?usp=sharing",
+        "content": "https://drive.google.com/drive/folders/1yw69IJCMu7oMOsoxDkMt3RzGg_RdCBk5?usp=sharing",
         "showAd": true
     },
 
@@ -368,3 +363,4 @@
 
 
 ]
+
