@@ -10,152 +10,180 @@
         "content": "https://drive.google.com/drive/folders/10zLF611vhi_t5_xzoLEWnPVIh2q-UOlX?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Catalysis",
         "content": "https://drive.google.com/drive/folders/1RD0JuL_IWJF6Fl8K4ZKT2TUZhCoc7yOY?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Chemistry of transition elements",
         "content": "https://drive.google.com/drive/folders/152UI5O9CCzFrM26Py_BJP2cOcfff90w_?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Co-ordination Chemistry",
         "content": "https://drive.google.com/drive/folders/1LH8UyHG4AtPVrHgSkLuKmqoSHweL4q0p?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Computer Sciences",
         "content": "https://drive.google.com/drive/folders/11oDY3ctIZ1PIdP6JJDxI1tzdTb3T3-xP?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Economics of petrochemicals",
         "content": "https://drive.google.com/drive/folders/1Vit2bNlv451Q4KiD1GWPCr-naevKYomv?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Electricity and photophysics",
         "content": "https://drive.google.com/drive/folders/1X1mYga4MiotA-gR5GkwIXSVJevMFhnuJ?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Electrochemical Chemistry",
         "content": "https://drive.google.com/drive/folders/1GwxHEtH7W70w_vh0HdX8uc_lzfr_exq8?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Environmental Studies",
         "content": "https://drive.google.com/drive/folders/1aCN4s_o8j1XxctAGFNdOGSRYPpKHdZ7Q?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Green Chemistry",
         "content": "https://drive.google.com/drive/folders/1QMy0UO0TuYI8RHprvourXfPAhW9f1Onc?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Inorganic chemistry",
         "content": "https://drive.google.com/drive/folders/1HW_JSrAfljGWYJbgb4MF2xj9e0sSAs3G?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Introduction in crude oil",
         "content": "https://drive.google.com/drive/folders/1-9X1G_qgxLtENqz4aycvY4E_juD1mmDl?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Kinetics and solid chemistry",
         "content": "https://drive.google.com/drive/folders/1agq84uoccf2PDpa4iww4LVILz8DBQcM5?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Language",
         "content": "https://drive.google.com/drive/folders/1M0WD3dnHbkSEperm5ef8AQcuVLEuZ3Wz?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Marketing",
         "content": "https://drive.google.com/drive/folders/1r98bJqUeXPhaDvxT-wOoP1ZfXsHWw9S1?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Mathematics",
         "content": "https://drive.google.com/drive/folders/1ovIvShMA4TwYq4VrmW2OBL-BZG2ZpU0M?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Mathematics (2)",
         "content": "https://drive.google.com/drive/folders/1L6OYugZM08S0tEg4wUy4cGSgUZUW0QgG?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Mineral Resources",
         "content": "https://drive.google.com/drive/folders/15PqRjO6k1Go7tlcp-w3n6N7OaGlE6ItC?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Nanotechnology",
         "content": "https://drive.google.com/drive/folders/1FMHufYUUUSZMRvdqyHceT7zifq3H_RLo?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Natural Gas",
         "content": "https://drive.google.com/drive/folders/1KU8kBRyUZJ-7QDw742VeVpEEZjpbhkeV?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Natural Products and heterocylic",
         "content": "https://drive.google.com/drive/folders/1DyPE03bET1qj0pIWTazeGSVn91cUixob?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Petrochemical Industry (10)",
         "content": "https://drive.google.com/drive/folders/1AgysRJMsTKjZ3tKSidp6e-nB1iIqTfHI?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Petrochemical Industry (2)",
         "content": "https://drive.google.com/drive/folders/1SyrGZO1k_VqnSbGVXjq69Hoa7VjPjl2x?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Petrochemical Industry (3)",
         "content": "https://drive.google.com/drive/folders/1Hj6epzKdirIE7QJ7iXmXjNUvEo8SMAKF?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Petrochemical Industry (4)",
         "content": "https://drive.google.com/drive/folders/1_HH-Of2notNXmSLlfQybozcIAILG6bKP?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Petrochemical Industry (5)",
         "content": "https://drive.google.com/drive/folders/1o7iOZS2Ng3GlncfsE0DF8uT50gBGUADX?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Petrochemical Industry (6)",
         "content": "https://drive.google.com/drive/folders/14JNg7WvkYpdGRmbNfCuCH8cHBLoj_hsJ?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Petrochemical Industry (7)",
         "content": "https://drive.google.com/drive/folders/1-qyjRtNE9f8vXBCyfWRc4x_lrVSheAFa?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Petrochemical Industry (8)",
         "content": "https://drive.google.com/drive/folders/1jIVPyiqDwHv3NLp_lcphV5tYEni6uvgz?usp=sharing",
         "showAd": true
     },
+
   {
         "title": "Petrochemical Industry (9)",
         "content": "https://drive.google.com/drive/folders/1HPgDFXSueH_TtevoAu_I40bNSPt7ohoi?usp=sharing",
         "showAd": true
     },
-
 
  {
         "title": "Petrochemicals (1)",
@@ -358,9 +386,10 @@
         "title": "Thermodynamics",
         "content": "https://drive.google.com/drive/folders/1-ZSRHXKpFJCEqYWtdOULyzDkSMthar1a?usp=sharing",
         "showAd": true
-    },
+    }
 
 
 
 ]
+
 
