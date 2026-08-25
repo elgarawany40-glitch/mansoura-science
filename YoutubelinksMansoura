@@ -1,21 +1,39 @@
 [
   {
-    "title": "نظرية الحاسبات - كومبيلر(Kasit Team)",
+    "title": "ألكيمياء العضوية (كفء لينك | Kofaalink)",
     "showAd": true,
-    "thumbnailUrl": "https://i.ytimg.com/vi/R9REE2P-r-M/maxresdefault.jpg",
-    "jsonUrl": "https://raw.githubusercontent.com/mrezk2910/jsonLinks/refs/heads/main/Theory.json"
+    "thumbnailUrl": "https://i.ytimg.com/vi/R4uJiB8GMfA/sddefault.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/elgarawany40-glitch/playlistmansourayoutube/refs/heads/main/How%20to%20name%20organic%20compounds%20with%20functional%20groups%20-%20%D8%B4%D8%B1%D8%AD%20%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%AA%D8%B3%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B6%D9%88%D9%8A%D8%A9.json"
   },
   {
-    "title": "تحليل عددي 1(Ali Youssef)",
+    "title": "الرياضيات  (Eng.Ahmed Essam)",
     "showAd": true,
-    "thumbnailUrl": "https://i.ytimg.com/vi/UElvn0u_YjI/sddefault.jpg",
-    "jsonUrl": "https://raw.githubusercontent.com/mrezk2910/jsonLinks/refs/heads/main/%D8%AA%D8%AD%D9%84%D9%8A%D9%84%20%D8%B9%D8%AF%D8%AF%D9%8A%20-%20Numerical%20Analysis.json"
+    "thumbnailUrl": "https://i.ytimg.com/vi/wDCOqWCtBnA/maxresdefault.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/elgarawany40-glitch/playlistmansourayoutube/refs/heads/main/Math%20for%20colleges.json"
   },
   {
-    "title": " بحوث عمليات(Dr. Mohammed Qabeel)",
+    "title": "  Protein Metabolism (Mahmoud Ettaweel)",
     "showAd": true,
     "thumbnailUrl": "https://i.ytimg.com/vi/McirpJkTBck/hqdefault.jpg",
-    "jsonUrl": "https://raw.githubusercontent.com/mrezk2910/jsonLinks/refs/heads/main/%D8%A8%D8%AD%D9%88%D8%AB%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA.json"
+    "jsonUrl": "https://raw.githubusercontent.com/elgarawany40-glitch/playlistmansourayoutube/refs/heads/main/Protein%20Metabolism%20-%20Book.json"
+  },
+ {
+    "title": "  IT  (مصطفى العاصى)",
+    "showAd": true,
+    "thumbnailUrl": "https://i.ytimg.com/vi/Au7aD0fSHl4/maxresdefault.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/elgarawany40-glitch/playlistmansourayoutube/refs/heads/main/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%A7%D9%85%D9%84%20%D9%88%D9%85%D8%A8%D8%B3%D8%B7%20%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%20IT.json"
+  }, 
+{
+    "title": "كربوهيدرات 1  (د. ابراهيم الحسيني)",
+    "showAd": true,
+    "thumbnailUrl": "https://i.ytimg.com/vi/9OT_WeCFaOA/sddefault.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/elgarawany40-glitch/playlistmansourayoutube/refs/heads/main/%D9%83%D8%B1%D8%A8%D9%88%D9%87%D9%8A%D8%AF%D8%B1%D8%A7%D8%AA%20-%20Carbohydrate%20-%20Biochemistry.json"
+  }, 
+{
+    "title": "  كيمياء تحليلية (Science Academy For Chemistry Basics)",
+    "showAd": true,
+    "thumbnailUrl": "https://i.ytimg.com/vi/XL4b1YqlUsA/sddefault.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/elgarawany40-glitch/playlistmansourayoutube/refs/heads/main/%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1%20%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D9%8A%D8%A9.json"
   },
   {
     "title": "احصاء(Dr. Mohammed Qabeel)",
